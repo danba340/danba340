@@ -5,7 +5,7 @@
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<img align="left" alt="danba340 Github Stats" src="https://github-readme-stats.vercel.app/api?username=danba340&show_icons=true&hide_border=false" />
+<img align="right" alt="danba340 Github Stats" src="https://github-readme-stats.vercel.app/api?username=danba340&show_icons=true&hide_border=false" />
 <br/>
 <br/>
 <br/>
@@ -17,9 +17,8 @@
 <br/>
 
 ### My Latest YouTube Videos 📺
-<br />
 <!-- YOUTUBE:START -->
-- [What is a Webhook? - Explained simply with fun example - [Home assistant, IFTTT, Geolocation]](https://youtu.be/9jFq2TU_02Y)
+- [What is a Webhook? - Explained simply with fun example - Home assistant, IFTTT, Geolocation](https://youtu.be/9jFq2TU_02Y)
 
 - [Trading Bot built with Node and Firebase - 100 day profit report](https://youtu.be/QkLCm73uWDI)
 
