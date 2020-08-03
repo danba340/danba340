@@ -15,13 +15,9 @@
 ### My Latest YouTube Videos 📺
 <!-- YOUTUBE:START -->
 - [What is a Webhook? - Explained simply with fun example - Home assistant, IFTTT, Geolocation](https://youtu.be/9jFq2TU_02Y)
-
 - [Trading Bot built with Node and Firebase - 100 day profit report](https://youtu.be/QkLCm73uWDI)
-
 - [Build a 3D frogger style game in React](https://www.youtube.com/playlist?list=PLGMdx7aeJHvQe16pAetbmkIGsj-HUsIYj)
-
 - [Build a GraphQL server in Deno using Oak - [Getting started tutorial]](https://youtu.be/Rc_HhL55JZM)
-
 - [React Recoil Todo List with LocalStorage Persistance](https://youtu.be/ncBSWL1tkr0)
 <!-- YOUTUBE:END -->
 <br />
