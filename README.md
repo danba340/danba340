@@ -16,6 +16,13 @@
 
 ### My Latest YouTube Videos  📺
 <!-- YOUTUBE:START -->
+- [Live clock wallpaper in Node.js](https://youtu.be/pATKLIrf-p0)
+- [Handling multiple Promises in Javascript - [all, allSettled, any, race]](https://youtu.be/-mEYlx2w00A)
+- [Code formatting with Pretties as a Github action - Tutorial](https://youtu.be/7j8JzOMdIXA)
+- [How to Validate JSON in Javascript - Tutorial and Example](https://youtu.be/Hg3CAwEpHZ8)
+- [First steps into Functional Programming in Javascript - Composition Example](https://youtu.be/xKFO9NCogLg)
+- [Full Video Background Tutorial using Bideo.js - [HTML, CSS, Javascript]](https://youtu.be/V0ityeXf-2Q)
+- [CSS only Infinitely Scrolling Background | TUTORIAL | [Clamp, Keyframes, Animation]](https://youtu.be/tfp38pBc8BQ)
 - [What is a Webhook? - Explained simply with fun example - Home assistant, IFTTT, Geolocation](https://youtu.be/9jFq2TU_02Y)
 - [Trading Bot built with Node and Firebase - 100 day profit report](https://youtu.be/QkLCm73uWDI)
 - [Build a 3D frogger style game in React](https://www.youtube.com/playlist?list=PLGMdx7aeJHvQe16pAetbmkIGsj-HUsIYj)
