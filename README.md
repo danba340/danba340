@@ -1,19 +1,13 @@
 ## Happy to see you on my profile page! 👋
-<img width="100" src="https://github.com/danba340/svg-animation-readme-example/blob/master/animatedkitty.svg" />
-<img align="right" alt="danba340 Github Stats" src="https://github-readme-stats.vercel.app/api?username=danba340&show_icons=true&hide_border=false" />
+<img align="right" width="200" src="https://github.com/danba340/svg-animation-readme-example/blob/master/animatedkitty.svg" />
+<img align="center" alt="danba340 Github Stats" src="https://github-readme-stats.vercel.app/api?username=danba340&show_icons=true&hide_border=false" />
 
 ### Find me:
 [<img align="left" alt="YouTube" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-512.png" />][youtube]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 ### Some of my YouTube Videos  📺
 <!-- YOUTUBE:START -->
