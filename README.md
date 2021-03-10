@@ -11,6 +11,9 @@
 
 ### Some of my YouTube Videos  📺
 <!-- YOUTUBE:START -->
+- [Building Javascript Minecraft in 1 hour - [React & Three.js Tutorial]](https://youtu.be/aWQmuTiThTs)
+- [Flappy bird in Javascript with 25 lines of code](https://youtu.be/mfk8Rk2eUJY)
+- [Build a 3D World in React with Three.js - [React Three Fiber Tutorial]](https://youtu.be/FGG0EeMNUl0)
 - [Live clock wallpaper in Node.js](https://youtu.be/pATKLIrf-p0)
 - [Handling multiple Promises in Javascript - [all, allSettled, any, race]](https://youtu.be/-mEYlx2w00A)
 - [Code formatting with Pretties as a Github action - Tutorial](https://youtu.be/7j8JzOMdIXA)
